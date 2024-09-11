@@ -1,6 +1,6 @@
 # Activity 3: Program Memory, Pointers, Malloc
 
-## Put name here
+## Alharath, Tu, Kelly
 
 Folder: `activities_early_pointers`
 
@@ -102,6 +102,9 @@ function, and their values.
 before the `return` statement
 
 **Take a picture of your diagram, and include it here in the README**
+
+![IMG_5521](https://github.com/user-attachments/assets/496d44c2-f458-4999-ac29-85575529fc11)
+
 
 (In the references below is a link to a document that can help you to include
 images in Github README files)

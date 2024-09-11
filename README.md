@@ -1,6 +1,6 @@
 # Activity 3: Program Memory, Pointers, Malloc
 
-## Put name here
+## Alharath, Tu, Kelly
 
 Folder: `activities_early_pointers`
 
